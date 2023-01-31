@@ -1,6 +1,7 @@
 name: deploy to lambda
 
-on:push:
+on:
+  push:
     branches:
       - main
 
